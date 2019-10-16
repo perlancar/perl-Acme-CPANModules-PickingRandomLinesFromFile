@@ -66,3 +66,7 @@ _
 
 1;
 # ABSTRACT:
+
+=head1 prepend:SEE ALSO
+
+L<Acme::CPANModules::PickingRandomItemsFromList>
