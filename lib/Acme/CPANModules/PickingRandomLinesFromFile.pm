@@ -12,9 +12,9 @@ our $LIST = {
             description => <<'_',
 
 The `random_line()` function from this module picks one or more random lines
-from a specified file. The whole content of the file need not be slurped into
-memory, but the routine requires a single-pass of reading all lines from the
-file. The algorithm is as described in perlfaq (See: `perldoc -q "random
+from a specified file. The whole content of the file does not need to be slurped
+into memory, but the routine requires a single-pass of reading all lines from
+the file. The algorithm is as described in perlfaq (See: `perldoc -q "random
 line"`).
 
 If you pick more than one lines, then there might be duplicates.
