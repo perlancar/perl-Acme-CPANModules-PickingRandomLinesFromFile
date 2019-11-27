@@ -70,3 +70,5 @@ _
 =head1 prepend:SEE ALSO
 
 L<Acme::CPANModules::PickingRandomItemsFromList>
+
+L<Acme::CPANModules::ReadingFilesBackward>
